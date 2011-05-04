@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.1.0
-Release:	%mkrel 7
+Release:	%mkrel 8
 Summary:	SMS functionality
 License:	PHP License
 Group:		Development/PHP
