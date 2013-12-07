@@ -5,7 +5,7 @@
 Summary:	SMS functionality
 Name:		php-pear-%{modname}
 Version:	0.2.0
-Release:	5
+Release:	6
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Net_SMS/
