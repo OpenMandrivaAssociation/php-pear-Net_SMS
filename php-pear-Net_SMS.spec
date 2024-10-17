@@ -9,7 +9,7 @@ Version:	0.2.1
 Release:	5
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Net_SMS/
+Url:		https://pear.php.net/package/Net_SMS/
 Source0:	http://download.pear.php.net/package/Net_SMS-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
